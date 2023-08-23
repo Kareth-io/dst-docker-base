@@ -4,7 +4,7 @@ This image is simply just a downloaded Don't starve together server tagged with 
 
 
 
-To build the current version simply run release.sh
+To build the current version simply run new_release.sh
 
 
 
